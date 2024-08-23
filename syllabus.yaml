@@ -1,0 +1,9 @@
+Types
+> primitive , reference
+
+
+Basic Type:
+> Number, String, Boolean
+> Arrays, Tuples
+> Any, Unknown, Never, Void
+> Enums
